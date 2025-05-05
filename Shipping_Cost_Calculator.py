@@ -1,5 +1,4 @@
 # Here is a new update by krittamate-dev
-# Here is another update by krittamate-dev
 
 # Shipping Cost Calculator
 
